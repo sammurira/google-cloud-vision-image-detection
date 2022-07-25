@@ -131,3 +131,6 @@ dmypy.json
 # Scripts folder
 
 Scripts/
+
+# remove pyvenv.cfg
+pyvenv.cfg

@@ -9,7 +9,7 @@ Integrates Google Vision features, including image labeling, face, logo, and lan
 
 https://cloud.google.com/vision/docs
 
-# Image data for the recognition Model - Kaggle
+# Image data for the OCR Model - Kaggle
 
 https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset
 
